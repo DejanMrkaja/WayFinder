@@ -1,0 +1,33 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Database.js</file>
+        <file>Home.qml</file>
+        <file>General.qml</file>
+        <file>AddChangeClient.qml</file>
+        <file>LogOutClient.qml</file>
+        <file>Client.qml</file>
+        <file>AddEditCompany.qml</file>
+        <file>History.qml</file>
+        <file>Configuration.qml</file>
+        <file>FloorSettings.qml</file>
+        <file>GeneralSettings.qml</file>
+        <file>Database_2.js</file>
+        <file>FrontScreen.qml</file>
+        <file>images/arrow.gif</file>
+        <file>images/elevator.gif</file>
+        <file>images/keyboard.png</file>
+        <file>images/num_pad.png</file>
+        <file>main.cpp</file>
+        <file>images/FronScreen.jpg</file>
+        <file>images/149060.png</file>
+        <file>images/FrontScreen_2.jpg</file>
+        <file>images/Floor_1.jpg</file>
+        <file>images/Floor_2.jpg</file>
+        <file>images/loc.png</file>
+        <file>asd.qml</file>
+        <file>images/arrow-left-01-128.png</file>
+        <file>images/elevator_2.gif</file>
+        <file>images/FronScreen_3.jpg</file>
+    </qresource>
+</RCC>
